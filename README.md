@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi. I'm ComputerAxe.
+(aka the person with the stupid yet memorable name)
+Here's some neat info about me:
 
-<!--
-**ComputerAxe/ComputerAxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on:
+  - My website. No, you can't have my screwed up code until it's done.
+  - This list
+- 🌱 I’m currently learning:
+  - Lua
+  - C#
+  - C++ (This one shall be the death of me)
+  - How to write good, efficient code (will never succeed)
+- 🤔 I’m looking for help with:
+  - Fxng my vwl kys (I fnd th I ky jst nw)
+- 📫 How to reach me:
+  - Why should I tell you?
+- 😄 Pronouns:
+  - Yet again, why should I tell you?
+- ⚡ Fun fact:
+  - I have no fundamentally useful skills in life
