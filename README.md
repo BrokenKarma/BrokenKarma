@@ -17,4 +17,4 @@ Here's some neat info about me:
 - 😄 Pronouns:
   - Yet again, why should I tell you?
 - ⚡ Fun fact:
-  - I have no fundamentally useful skills in life
+  - I have no fundamentally useful skills in life (yet)
